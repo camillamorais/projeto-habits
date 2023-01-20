@@ -1,7 +1,7 @@
 <h1 align="center"> Projeto Habits (e) </h1>
 
 <p align="center">
-Projeto desenvolvido no NLW Setup, promovido pela Rocketseat, com o professor Myke Brito.</p>
+Projeto desenvolvido no NLW Setup, promovido pela Rocketseat, com o professor Myk Brito.</p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
