@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Projeto Habits (e) é um app desenvolvido para rastrear os hábitos diários.
 
-- [Acesse o projeto finalizado, online](https://camillamorais.github.io/projeto-android/)
+- [Acesse o projeto finalizado, online](https://camillamorais.github.io/projeto-habits/)
 
 
 ## 📖 Aprendizado
